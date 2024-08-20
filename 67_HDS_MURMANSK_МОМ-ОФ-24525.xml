@@ -17,7 +17,7 @@
         <mets:mdWrap MDTYPE="MODS" OTHERMDTYPE="SET_METADATA">
             <mets:xmlData>
                 <mods:mods>
-                    <mods:identifier type="local">https://github.com/nunearazyan/messages-from-time-capsules/blob/master/67_MURMANSK_HDS_%D0%9C%D0%9E%D0%9C-%D0%9E%D0%A4-24525.xml</mods:identifier>
+                    <mods:identifier type="local">https://github.com/nunearazyan/messages-from-time-capsules/blob/master/67_HDS_MURMANSK_%D0%9C%D0%9E%D0%9C-%D0%9E%D0%A4-24525.xml</mods:identifier>
                     <mods:accessCondition type="use and reproduction">CC-BY-NC</mods:accessCondition>
                     <mods:originInfo>
                         <mods:dateCreated encoding="iso8601">2025-09-10</mods:dateCreated>

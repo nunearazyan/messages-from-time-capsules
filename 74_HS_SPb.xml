@@ -17,7 +17,7 @@
         <mets:mdWrap MDTYPE="MODS" OTHERMDTYPE="SET_METADATA">
             <mets:xmlData>
                 <mods:mods>
-                    <mods:identifier type="local">SPB</mods:identifier> <!-- Github einfügen!!!!!-->
+                    <mods:identifier type="local">https://github.com/nunearazyan/messages-from-time-capsules/blob/master/74_HS_SPb.xml</mods:identifier>
                     <mods:accessCondition type="use and reproduction">CC-BY-NC</mods:accessCondition>
                     <mods:originInfo>
                         <mods:dateCreated encoding="iso8601">2025-09-10</mods:dateCreated>
@@ -40,7 +40,7 @@
                         <mods:title lang="ger">Brief aus der Zeitkapsel der Schule Nr. 512 der Stadt St. Petersburg</mods:title>
                     </mods:titleInfo>
                     <mods:originInfo>
-                    <mods:dateCreated encoding="iso8601">1972-09-01</mods:dateCreated>
+                    <mods:dateCreated encoding="iso8601">1974-09-01</mods:dateCreated>
                         <mods:place>
                             <mods:placeTerm valueURI="https://d-nb.info/gnd/4267026-3">St. Petersburg</mods:placeTerm>
                         </mods:place>

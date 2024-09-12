@@ -36,6 +36,7 @@
             <mets:xmlData>
                 <mods:mods>
                     <mods:identifier>None</mods:identifier>
+                    <mods:titleInfo>
                         <mods:title lang="rus">Письмо из капсулы времени школы № 512 г. Санкт-Петербурга</mods:title>
                         <mods:title lang="ger">Brief aus der Zeitkapsel der Schule Nr. 512 der Stadt St. Petersburg</mods:title>
                     </mods:titleInfo>
@@ -54,9 +55,8 @@
                     <mods:physicalDescription>
                         <mods:form>Brief-Botschaft</mods:form>
                         <mods:extent>1 Blatt</mods:extent>
-                        <mods:material>Papier, Tinte</mods:material>
+                        <mods:material>Papier, Tinte, Farben</mods:material>
                         <mods:note>handgeschrieben</mods:note>
-                    </mods:physicalDescription>
                     </mods:physicalDescription>
                     <mods:language>
                         <mods:languageTerm type="text" authority="iso639-2">rus</mods:languageTerm>
@@ -79,6 +79,7 @@
                     <mods:name type="corporate">
                         <mods:namePart lang="rus">Музей Константина Эдуардовича Циолковского государственного бюджетного общеобразовательного учреждения средней общеобразовательной школы №521</mods:namePart>
                         <mods:namePart lang="ger">Museum von Konstantin Eduardowitsch Ziolkowski der staatlichen haushaltsmäßigen allgemeinbildenden Einrichtung der mittleren allgemeinbildenden Schule №521</mods:namePart>
+                    </mods:name>
                     <mods:physicalDescription>
                         <mods:internetMediaType>image/jpg</mods:internetMediaType>
                         <mods:internetMediaType>image/tiff</mods:internetMediaType>

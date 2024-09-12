@@ -37,6 +37,7 @@
                 <mods:mods>
                     <mods:identifier type="URL" lang="rus">https://goskatalog.ru/portal/#/collections?id=41270791</mods:identifier>
                     <mods:identifier type="local" transliteration="MOM-OF-24525" lang="rus">МОМ-ОФ-24525</mods:identifier>
+                    <mods:titleInfo>
                         <mods:title lang="rus">Послание жителям Мурманска 2017 года</mods:title>
                         <mods:title lang="ger">Botschaft an die Einwohner von Murmansk des Jahres 2017</mods:title>
                     </mods:titleInfo>
@@ -60,7 +61,6 @@
                         <mods:note>handgeschrieben</mods:note>
                         <mods:note>Einzelne Seiten gekennzeichnet als: МОМ-ОФ-24525/1, МОМ-ОФ-24525/2</mods:note>
                     </mods:physicalDescription>
-                    </mods:physicalDescription>
                     <mods:language>
                         <mods:languageTerm type="text" authority="iso639-2">rus</mods:languageTerm>
                     </mods:language>
@@ -82,6 +82,7 @@
                     <mods:name type="corporate">
                         <mods:namePart lang="rus">Государственное областное автономное учреждение культуры «Мурманский областной краеведческий музей»</mods:namePart>
                         <mods:namePart lang="ger">Staatliche regionale autonome Kultureinrichtung «Murmansker Regionalmuseum für Heimatkunde»</mods:namePart>
+                    </mods:name>
                     <mods:physicalDescription>
                         <mods:internetMediaType>image/jpg</mods:internetMediaType>
                         <mods:internetMediaType>image/tiff</mods:internetMediaType>

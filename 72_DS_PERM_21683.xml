@@ -37,6 +37,7 @@
                 <mods:mods>
                     <mods:identifier type="URL" lang="rus">https://goskatalog.ru/portal/#/collections?id=43460478</mods:identifier>
                     <mods:identifier type="local" transliteration="PKM-21683" lang="rus">ПКМ-21683</mods:identifier>
+                    <mods:titleInfo>
                         <mods:title lang="rus">Городской совет пионерской организации, Городской пионерский штаб «Искатель». Письмо открытое, пионерам 2022 года из «капсулы времени»</mods:title>
                         <mods:title lang="ger">Stadtrat der Pionierorganisation, Stadtpionierstab «Sucher». Offener Brief an die Pioniere des Jahres 2022 aus der «Zeitkapsel»</mods:title>
                     </mods:titleInfo>
@@ -60,7 +61,6 @@
                         <mods:note>maschinengeschrieben, handgeschrieben</mods:note>
                         <mods:note>Einzelne Seiten gekennzeichnet als: ПКМ-21683/1, ПКМ-21683/2</mods:note>
                     </mods:physicalDescription>
-                    </mods:physicalDescription>
                     <mods:language>
                         <mods:languageTerm type="text" authority="iso639-2">rus</mods:languageTerm>
                     </mods:language>
@@ -82,6 +82,7 @@
                     <mods:name type="corporate">
                         <mods:namePart lang="rus">Государственное краевое бюджетное учреждение культуры «Пермский краеведческий музей»</mods:namePart>
                         <mods:namePart lang="ger">Staatliche regionale staatliche Kultureinrichtung «Regionalgeschichtliches Museum Perm»</mods:namePart>
+                    </mods:name>
                     <mods:physicalDescription>
                         <mods:internetMediaType>image/jpg</mods:internetMediaType>
                         <mods:internetMediaType>image/tiff</mods:internetMediaType>

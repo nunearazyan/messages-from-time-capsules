@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/"
+    xmlns:dv="http://dfg-viewer.de/" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:rights="http://www.loc.gov/rights/">
+
+    <!-- METS-Header -->
+    <mets:metsHdr CREATEDATE="2024-08-19T12:00:00">
+        <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+            <mets:name>Nune Arazyan</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+
+    <!-- Erschließungsdaten Metadaten-->
+    <mets:dmdSec ID="dmd001">
+        <mets:mdWrap MDTYPE="MODS" OTHERMDTYPE="SET_METADATA">
+            <mets:xmlData>
+                <mods:mods>
+                    <mods:identifier type="local">https://github.com/nunearazyan/messages-from-time-capsules/blob/master/72_DS_PERM_21683.xml</mods:identifier>
+                    <mods:accessCondition type="use and reproduction">CC-BY-NC</mods:accessCondition>
+                    <mods:originInfo>
+                        <mods:dateCreated encoding="iso8601">2025-09-10</mods:dateCreated>
+                    </mods:originInfo>
+                    <mods:name type="personal">
+                        <mods:namePart>Nune Arazyan</mods:namePart>
+                    </mods:name>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+
+    <!-- Erschließungsdaten Ausgangsobjekt-->
+    <mets:dmdSec ID="dmd002">
+        <mets:mdWrap MDTYPE="MODS" OTHERMDTYPE="REAL_OBJECT_METADATA">
+            <mets:xmlData>
+                <mods:mods>
+                    <mods:identifier type="URL" lang="rus">https://goskatalog.ru/portal/#/collections?id=43460478</mods:identifier>
+                    <mods:identifier type="local" transliteration="PKM-21683" lang="rus">ПКМ-21683</mods:identifier>
+                    <mods:titleInfo>
+                        <mods:title lang="rus">Городской совет пионерской организации, Городской пионерский штаб «Искатель». Письмо открытое, пионерам 2022 года из «капсулы времени»</mods:title>
+                        <mods:title lang="ger">Stadtrat der Pionierorganisation, Stadtpionierstab «Sucher». Offener Brief an die Pioniere des Jahres 2022 aus der «Zeitkapsel»</mods:title>
+                    </mods:titleInfo>
+                    <mods:originInfo>
+                    <mods:dateCreated type="written" encoding="iso8601">1972-05-19</mods:dateCreated>
+                    <mods:dateCreated type="opened" encoding="iso8601">2022-05-18</mods:dateCreated>
+                        <mods:place>
+                            <mods:placeTerm valueURI="https://d-nb.info/gnd/4216585-4">Perm</mods:placeTerm>
+                        </mods:place>
+                    </mods:originInfo>
+                    <mods:abstract>Botschaft an die nachkommenden Generationen aus einer Zeitkapsel aus der Sowjetunion. Das Einlegen von Zeitkapseln mit derartigen Botschaften, die meist nach fünfzig Jahren von der kommenden Generation geöffnet und gelesen werden sollten, war in der Sowjetunion in den 60er-70er Jahren eine verbreitete Praxis. 2017-2018 wurden vielerorts innerhalb des Raums der ehemaligen Sowjetunion Zeitkapseln ausgegraben und geöffnet.</mods:abstract>
+                    <mods:name type="corporate">
+                        <mods:namePart lang="rus">Государственное краевое бюджетное учреждение культуры «Пермский краеведческий музей»</mods:namePart>
+                        <mods:namePart lang="ger">Staatliche regionale haushaltsmäßige Kultureinrichtung «Regionalgeschichtliches Museum Perm»</mods:namePart>
+                    </mods:name>
+                    <mods:genre valueURI="https://www.openthesaurus.de/synonyme/botschaft">Botschaft</mods:genre>
+                    <mods:physicalDescription>
+                        <mods:form>Brief-Botschaft</mods:form>
+                        <mods:extent>2 Blätter</mods:extent>
+                        <mods:dimensions>je ca. 29.7 х 20.9 cm</mods:dimensions>
+                        <mods:material>Papier, Paste (blau)</mods:material>
+                        <mods:note>maschinengeschrieben, handgeschrieben</mods:note>
+                        <mods:note>Einzelne Seiten gekennzeichnet als: ПКМ-21683/1, ПКМ-21683/2</mods:note>
+                    </mods:physicalDescription>
+                    <mods:language>
+                        <mods:languageTerm type="text" authority="iso639-2">rus</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+
+    <!-- Erschließungsdaten Digitalisat -->
+    <mets:dmdSec ID="dmd003">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="DIGITAL_OBJECT_METADATA">
+            <mets:xmlData>
+                <mods:mods>
+                    <mods:identifier type="local">None</mods:identifier>
+                    <mods:accessCondition type="use and reproduction">Alle Rechte vorbehalten</mods:accessCondition>
+                    <mods:originInfo>
+                        <mods:dateCreated encoding="iso8601">2024-08-14</mods:dateCreated>
+                    </mods:originInfo>
+                    <mods:name type="corporate">
+                        <mods:namePart lang="rus">Государственное краевое бюджетное учреждение культуры «Пермский краеведческий музей»</mods:namePart>
+                        <mods:namePart lang="ger">Staatliche regionale staatliche Kultureinrichtung «Regionalgeschichtliches Museum Perm»</mods:namePart>
+                    </mods:name>
+                    <mods:physicalDescription>
+                        <mods:internetMediaType>image/jpg</mods:internetMediaType>
+                        <mods:internetMediaType>image/tiff</mods:internetMediaType>
+                    </mods:physicalDescription>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+
+    <!-- Administrative Metadaten Digitalisat -->
+    <mets:amdSec ID="amd001">
+        <mets:rightsMD>
+            <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="RIGHTS">
+                <mets:xmlData>
+                    <rights:RightsDeclaration>
+                        <rights:RightsStatement>Alle Rechte vorbehalten</rights:RightsStatement>
+                    </rights:RightsDeclaration>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+    </mets:amdSec>
+
+    <!-- Referenzen auf Dateien -->
+    <mets:fileSec>
+    <!-- Master-Dateien -->
+        <mets:fileGrp USE="MASTER">
+            <mets:file ID="72_DS_PERM_21683-1" MIMETYPE="image/tiff">
+                <mets:FLocat LOCTYPE="FILE" xlink:href="/Botschaften aus Zeitkapseln/Druckschrifte/72_DS_PERM_21683-1.tiff"/>
+            </mets:file>
+            <mets:file ID="72_DS_PERM_21683-2" MIMETYPE="image/tiff">
+                <mets:FLocat LOCTYPE="FILE" xlink:href="/Botschaften aus Zeitkapseln/Druckschrifte/72_DS_PERM_21683-2.tiff"/>
+            </mets:file>
+        </mets:fileGrp>
+
+        <!-- einfache Digitalisate -->
+        <mets:fileGrp USE="DERIVATE">
+            <mets:file ID="72_DS_PERM_21683-1" MIMETYPE="image/jpg">
+                <mets:FLocat LOCTYPE="FILE" xlink:href="/Botschaften aus Zeitkapseln/Druckschrifte/72_DS_PERM_21683-1.jpg"/>
+            </mets:file>
+            <mets:file ID="72_DS_PERM_21683-2" MIMETYPE="image/jpg">
+                <mets:FLocat LOCTYPE="FILE" xlink:href="/Botschaften aus Zeitkapseln/Druckschrifte/72_DS_PERM_21683-2.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+
+    <!-- StructMap -->
+    <mets:structMap>
+        <mets:div TYPE="Collection" DMDID="dmd001">
+            <!-- Unterdiv für das einzelne Objekt -->
+            <mets:div TYPE="Item" DMDID="dmd002" FILEID="72_DS_PERM_21683">
+                <!-- Subdiv für das Master-File -->
+                <mets:div TYPE="MasterFile" FILEID="72_DS_PERM_21683-1"/>
+                <mets:div TYPE="MasterFile" FILEID="72_DS_PERM_21683-2"/>
+                <!-- Subdiv für die Derivate -->
+                <mets:div TYPE="Derivate" FILEID="72_DS_PERM_21683-1"/>
+                <mets:div TYPE="Derivate" FILEID="72_DS_PERM_21683-2"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
